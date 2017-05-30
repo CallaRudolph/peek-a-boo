@@ -2,11 +2,34 @@
   display: none;
 }
 
-.clickable {
+.clickableG {
   cursor: pointer;
   color: #0088cc;
 }
 
-.clickable:hover {
+.clickableG:hover {
   text-decoration: underline;
 }
+
+.clickableW {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickableW:hover {
+  text-decoration: underline;
+}
+
+#giraffe-showing {
+  display: none;
+}
+
+/*
+#img-border {
+  border: solid 5px black;
+}
+
+#img-noborder {
+  border: none;
+}
+*/
