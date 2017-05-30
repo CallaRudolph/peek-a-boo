@@ -1,5 +1,5 @@
 $(function() {
-  $("em").click(function() {
+  $("p").click(function() {
     $(".walrus-showing").toggle();
     $(".walrus-hidden").toggle();
   });
